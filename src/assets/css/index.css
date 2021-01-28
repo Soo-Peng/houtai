@@ -1,0 +1,20 @@
+.el-header {
+  height: 10vh !important;
+  background-color: #518ecb;
+}
+.el-header h2 {
+  font-size: 30px;
+  line-height: 10vh;
+}
+.el-container {
+  flex: 1;
+}
+.el-aside {
+  width: 200px !important;
+  background-color: #3d5f81;
+  min-height: 90vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
